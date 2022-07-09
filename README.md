@@ -1,15 +1,15 @@
 # StudentRegistration
 Tech:
-Thymeleaf.jQuery,HTML,Ajax,Spring Boot,Mysql, JPA
+Thymeleaf, jQuery,HTML,Ajax,Spring Boot,Mysql, JPA
 
-Features:
+#Features:
 Add Student
 Get all Students
 Delete Student by ID
 Search Student by ID
 
 
-Instruction:
+#Instruction:
 Open url by localhost:8888/
 Create MySQL database as studentmvc on port 3306 
 
