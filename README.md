@@ -11,6 +11,5 @@ Thymeleaf, jQuery,HTML,Ajax,Spring Boot,Mysql, JPA
 
 
 # Instruction:
-Open it by using localhost:8888/
-Create MySQL database with the schema as studentmvc on port 3306 
-
+(1)Create MySQL database with the schema as studentmvc on port 3306 
+(2)Open it by using localhost:8888/
